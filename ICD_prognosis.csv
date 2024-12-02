@@ -1,0 +1,40 @@
+diagnosis_group,diagnosis_number,diagnosis_name
+Some infectious and parasitic diseases (A00-B99),A15,Tuberculosis
+Some infectious and parasitic diseases (A00-B99),B15,Hepatitis A
+Some infectious and parasitic diseases (A00-B99),A75,Typhus
+Some infectious and parasitic diseases (A00-B99),A90,Dengue Fever
+Some infectious and parasitic diseases (A00-B99),B01,Chickenpox
+Some infectious and parasitic diseases (A00-B99),B16,Hepatitis B
+Some infectious and parasitic diseases (A00-B99),B17.1,Hepatitis C
+Some infectious and parasitic diseases (A00-B99),B17.2,Hepatitis E
+Some infectious and parasitic diseases (A00-B99),B18.0,Hepatitis D
+Some infectious and parasitic diseases (A00-B99),B20,AIDS
+Some infectious and parasitic diseases (A00-B99),B35,Fungal infection
+Some infectious and parasitic diseases (A00-B99),B50,Malaria
+"Diseases of the endocrine system, nutritional disorders and metabolic disorders (E00-E90)",E03,Hypothyroidism
+"Diseases of the endocrine system, nutritional disorders and metabolic disorders (E00-E90)",E05,Hyperthyroidism
+"Diseases of the endocrine system, nutritional disorders and metabolic disorders (E00-E90)",E10,Diabetes
+"Diseases of the endocrine system, nutritional disorders and metabolic disorders (E00-E90)",E16.2,Hypoglycemia
+Diseases of the nervous system (G00-G99),G43,Migraine
+Diseases of the circulatory system (I00-I99),I10,Arterial hypertension
+Diseases of the circulatory system (I00-I99),I21,Acute myocardial infarction
+Diseases of the circulatory system (I00-I99),I61,Hemorrhagic stroke
+Diseases of the circulatory system (I00-I99),I83,Varicose veins
+Diseases of the respiratory system (J00-J99),J00,Common cold
+Diseases of the respiratory system (J00-J99),J18,Pneumonia
+Diseases of the respiratory system (J00-J99),J45,Bronchial asthma
+Diseases of the digestive system (K00-K93),K21,Gastroesophageal reflux disease
+Diseases of the digestive system (K00-K93),K25,Peptic ulcer of the stomach and duodenum
+Diseases of the digestive system (K00-K93),K52,Gastroenteritis
+Diseases of the digestive system (K00-K93),K70.1,Alcoholic hepatitis
+Diseases of the digestive system (K00-K93),K83.1,Chronic cholestasis
+Diseases of the skin and subcutaneous tissue (L00-L99),L01,Impetigo
+Diseases of the skin and subcutaneous tissue (L00-L99),L40,Psoriasis
+Diseases of the skin and subcutaneous tissue (L00-L99),L70,Acne
+Diseases of the musculoskeletal system and connective tissue (M00-M99),M13,Arthritis
+Diseases of the musculoskeletal system and connective tissue (M00-M99),M15,Osteoarthritis
+Diseases of the musculoskeletal system and connective tissue (M00-M99),M50,Cervical osteochondrosis
+Diseases of the genitourinary system (N00-N99),N39.0,Urinary tract infection
+"Symptoms, signs and deviations from the norm identified during clinical and laboratory studies, not classified elsewhere (R00-R99)",R17,Jaundice
+"Injuries, poisonings and certain other consequences of external causes (S00-T98)",T78.4,Allergy
+"Injuries, poisonings and certain other consequences of external causes (S00-T98)",T88.7,Drug reaction
