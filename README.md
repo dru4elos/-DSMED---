@@ -19,7 +19,11 @@
 3) SVM
 4) sklearn.multiclass - OneVsRestClassifier
 ## Бибиотеки для глубокой нейронной сети
-1) tensorflow 
+1) tensorflow
+## Файлы, загруженные в репозиторий
+
+1) DSMED_Final_ASemenov.ipynb - финальный ноутбук ipynb с кодом анализа данных с проверкой трех моделей машинного обучения: SVM, Catboost, XGBoost
+2) 
 ## Результаты и выводы
 
 
